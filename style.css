@@ -157,7 +157,10 @@ a{
         padding: 1rem;
     }
     .showcase-text h1{
-        font-size: 2.2rem;
+        font-size: 2rem;
+    }
+    .showcase-text h3{
+        font-size: 1.6rem;
     }
     
     .navLinks{
